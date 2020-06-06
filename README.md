@@ -1,6 +1,6 @@
 # pak_citizen_portal
 
-A new Flutter project.
+![sample](https://user-images.githubusercontent.com/57314430/83945082-95de9180-a821-11ea-8382-d72576758a3b.png)
 
 ## Getting Started
 
